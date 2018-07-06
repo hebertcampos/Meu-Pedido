@@ -8,10 +8,10 @@ O cliente chega no estabelecimento e atraves de tablete oferecido pelo proprio e
 ## Fluxo de uso cliente
 * O cliente senta-se a mesa
 * Abre o APP e faz seu login ou o cadastro do mesmo.
-- Cadastro pede: Nome, e-mail, telefone, senha.
+- - Cadastro pede: Nome, e-mail, telefone, senha.
 * Insere o código da mesa que também terá junto o código do estabelecimento
 * Tela de menu
-- Escolha da categoria do alimento (pizza, massa, hanburguer, sobremesa, bebidas, etc...)
+- - Escolha da categoria do alimento (pizza, massa, hanburguer, sobremesa, bebidas, etc...)
 - - É gerado uma lista dos alimentos daquela categoria, onde o cliente marca com checkbox o que quer
 * Confirma seu pedido ou pode pode voltar para modificar o pedido
 
