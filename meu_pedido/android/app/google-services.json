@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "788976469562",
+    "firebase_url": "https://meu-pedido-17f20.firebaseio.com",
+    "project_id": "meu-pedido-17f20",
+    "storage_bucket": "meu-pedido-17f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788976469562:android:59efafcbea6db339",
+        "android_client_info": {
+          "package_name": "com.example.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788976469562-9qq3ad5mck6uma2in2m4ttasjvc6cd0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtftg-H6iMiW1cE4xQeDeLB_1du3NhS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788976469562-9qq3ad5mck6uma2in2m4ttasjvc6cd0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788976469562:android:fa5053e65638faaf",
+        "android_client_info": {
+          "package_name": "com.example.meu_pedido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788976469562-9qq3ad5mck6uma2in2m4ttasjvc6cd0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmtftg-H6iMiW1cE4xQeDeLB_1du3NhS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788976469562-9qq3ad5mck6uma2in2m4ttasjvc6cd0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
