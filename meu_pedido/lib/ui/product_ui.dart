@@ -18,7 +18,6 @@ class _ProductScreenState extends State<ProductScreen> {
   @override
   Widget build(BuildContext context) {
     final Color primaryColor = Theme.of(context).primaryColor;
-    print(product.sizes.length);
     return Scaffold(
       appBar: AppBar(
         title: Text(product.title),
